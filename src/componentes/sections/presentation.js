@@ -40,11 +40,12 @@ function Presentation(){
         <div id="Presentation" className={styles.presentation}>
             <p><strong>Bem-vindo ao meu Portifólio</strong></p>
             <h1>Olá, eu sou {text}</h1>
-            <h4>Aficionado por tudo que tem a ver com tecnologia! Estou em uma joranada para me tornar <br/>
-                um Desenvolvedor Full Stack, e poder criar as melhores experiências digitais! Com uma base<br/>
+            <h4>Aficionado por tudo que tem a ver com tecnologia! Sou um Desenvolvedor Full Stack,<br/>
+                e sou focado em criar as melhores experiências digitais! Com uma base<br/>
                 em HTML, CSS e JavaScript, estou desenvolvendo interfaces de usuário intuitivas e responsivas.<br/>
-                No back end, estou mergulhando no mundo do Python e explorando o Microsoft SQL para dar vida<br/>
-                a funcionalidades. 
+                No back end, tenho experiência em C# e .Net! Além disso <br/>
+                estou mergulhando no mundo do Python e explorando o Microsoft SQL Server para dar vida<br/>
+                a funcionalidades.
             </h4>
             <ButtonA link='http://github.com/boarini' text='Conecte-se comigo!'/>
           

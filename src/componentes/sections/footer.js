@@ -10,7 +10,7 @@ function Footer(){
                 <li><a href='https://www.linkedin.com/in/matheus-boarini-816706225/'><FaLinkedin size={30}/></a></li>
             </ul>
             <p>matheusandre06@hotmail.com</p>
-            <p>Matheus Boarini © 2023</p>
+            <p>Matheus Boarini © 2025</p>
         </div>
     )
 }
